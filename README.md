@@ -4,7 +4,8 @@ Aplicação web responsiva que exibe a previsão do tempo em tempo real, altera 
 
 ---
 
-##  Demonstração do Projeto
+## 🌦️ Teste a Previsão do Tempo + IA ao Vivo
+
 
 [![Vercel](https://img.shields.io/badge/Projeto_online-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://previsao-tempo-ia.vercel.app/)
 
@@ -22,9 +23,27 @@ Aplicação web responsiva que exibe a previsão do tempo em tempo real, altera 
 
 ---
 
-## 🎥 Demonstração do Projeto
+### <h2>🎥 Demonstração do Projeto</h2>
 
-https://github.com/joao-robertoo/projeto-previsao-tempo/issues/1#issue-3885888083
+<table>
+  <tr>
+    <th>📱 Mobile</th>
+    <th>📲 Tablet</th>
+    <th>💻 Macbook</th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github.com/joao-robertoo/projeto-previsao-tempo/blob/main/assets/mobile.gif?raw=true" width="250"/>
+    </td>
+    <td>
+      <img src="https://github.com/joao-robertoo/projeto-previsao-tempo/blob/main/assets/tablet.gif?raw=true" width="350"/>
+    </td>
+    <td>
+      <img src="https://github.com/joao-robertoo/projeto-previsao-tempo/blob/main/assets/desktop.gif?raw=true" width="850"/>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
