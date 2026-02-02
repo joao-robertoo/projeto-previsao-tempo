@@ -24,8 +24,7 @@ Aplicação web responsiva que exibe a previsão do tempo em tempo real, altera 
 
 ## 🎨 Preview Visual
 
-
-![Preview do App](./preview.png)
+[![Vercel](https://img.shields.io/badge/Projeto_online-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://previsao-tempo-ia.vercel.app/)
 
 ---
 
