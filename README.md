@@ -24,7 +24,7 @@ Aplicação web responsiva que exibe a previsão do tempo em tempo real, altera 
 
 ## 🎨 Preview Visual
 
-<video src="https://github.com/joao-robertoo/projeto-previsao-tempo/blob/main/pasta-img-videos/mobile.webm" controls></video>
+![Mobile](assets/https://github.com/joao-robertoo/projeto-previsao-tempo/blob/main/assets/mobile.gif)
 
 ---
 
