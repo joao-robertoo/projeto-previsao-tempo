@@ -7,7 +7,7 @@ Aplicação web responsiva que exibe a previsão do tempo em tempo real, altera 
 ## 🌦️ Teste a Previsão do Tempo + IA ao Vivo
 
 
-[![Vercel](https://img.shields.io/badge/Projeto_online-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://previsao-tempo-ia.vercel.app/)
+[![Vercel](https://img.shields.io/badge/Projeto_online-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://previsao-do-tempo-com-ia.vercel.app/)
 
 ---
 
