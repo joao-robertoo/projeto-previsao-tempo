@@ -1,4 +1,4 @@
-let chaveIA = "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"
+let chaveIA = ""
 const chaveTempo = "52f8aa7c877a37367dc282b8da89537c"
 
 /* ===== BACKGROUND DINÂMICO ===== */
